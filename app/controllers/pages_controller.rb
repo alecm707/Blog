@@ -1,7 +1,8 @@
 class PagesController < ApplicationController
   def about
   end
-
-  def welcome
-  end
+ 
+   def welcome
+ 	@posts = Post.all
+   end
 end
