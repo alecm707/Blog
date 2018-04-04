@@ -30,6 +30,12 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+#use ckeditor for rich tect
+gem 'ckeditor'
+
+#use paper clip for file uploads
+gem 'paperclip'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
