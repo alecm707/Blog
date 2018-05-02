@@ -33,6 +33,9 @@ gem 'jbuilder', '~> 2.5'
 #use ckeditor for rich tect
 gem 'ckeditor'
 
+#use devise for authentication
+gem 'devise'
+
 #use paper clip for file uploads
 gem 'paperclip'
 
